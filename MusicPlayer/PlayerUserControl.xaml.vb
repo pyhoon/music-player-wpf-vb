@@ -1,4 +1,5 @@
-﻿Public Class PlayerUserControl
+﻿'Imports System.Data
+Public Class PlayerUserControl
     Dim IsPlaying As Boolean                    ' Is the song playing?
     Dim DatabaseCon As OleDb.OleDbConnection    ' Database connection
     Dim strDataSource As String                 ' Database file path

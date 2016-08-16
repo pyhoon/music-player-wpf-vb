@@ -21,3 +21,26 @@ C:\Users\Aeric\Documents\Visual Studio 2013\Projects\MusicPlayer\MusicPlayer\bin
 C:\Users\Aeric\Documents\Visual Studio 2013\Projects\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.application
 C:\Users\Aeric\Documents\Visual Studio 2013\Projects\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe.manifest
 C:\Users\Aeric\Documents\Visual Studio 2013\Projects\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.application
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\PlayerUserControl.g.vb
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_Content.g.vb
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.cache
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer_MarkupCompile.lref
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\PlayerUserControl.baml
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.g.resources
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.MusicPlayerForm.resources
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Resources.resources
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.vbproj.GenerateResource.Cache
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.xml
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\images\black.jpg
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\images\blue.jpg
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\data\dbSong.accdb
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.manifest
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.application
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.xml
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe.manifest
+C:\Users\Aeric\Source\Repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.application
